@@ -1,5 +1,2 @@
 apple
 mango
-strawberry
-tomato
-orange
