@@ -1,5 +1,5 @@
-train: C:/Users/LENOVO/Desktop/fruit object detection/train/images
-val: C:/Users/LENOVO/Desktop/fruit object detection/val/images
+train: C:/Users/HP/Desktop/fruit-object-detection/train/images
+val: C:/Users/HP/Desktop/fruit-object-detection/val/images
 
 nc: 5
 names: ['apple' , 'mango' , 'strawberry' , 'tomato' , 'orange']
