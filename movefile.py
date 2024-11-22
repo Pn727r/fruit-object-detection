@@ -18,7 +18,7 @@ def move_txt_files(source_folder, destination_folder):
             print(f"Moved '{filename}' to '{destination_folder}'.")
 
 # Usage example
-source_folder = f"C:/Users/LENOVO/Desktop/fruit object detection/data/val/images/"  
-destination_folder = "C:/Users/LENOVO/Desktop/fruit object detection/data/val/labels/"  
+source_folder = f"C:/Users/LENOVO/Desktop/fruit object detection/tomato/"  
+destination_folder = "C:/Users/LENOVO/Desktop/fruit object detection/lbl/"  
 
 move_txt_files(source_folder, destination_folder)

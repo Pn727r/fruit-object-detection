@@ -20,5 +20,5 @@ def resize_images_in_place(folder_path, new_width=128, new_height=128):
                 
     print("All images resized to 128x128 and saved in place.")
 
-folder_path = 'C:/Users/LENOVO/Desktop/fruit object detection/data/val/images/' 
+folder_path = 'C:/Users/LENOVO/Desktop/fruit object detection/val/images/' 
 resize_images_in_place(folder_path, new_width=128, new_height=128)
